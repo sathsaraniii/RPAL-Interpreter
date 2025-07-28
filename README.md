@@ -95,17 +95,6 @@ python3 myrpal.py filename.txt
 - **CSEMachine**: Control Stack Environment machine that executes the control structures
 - **ErrorHandler**: Manages and reports compilation and runtime errors
 
-## Requirements
-
-- Python 3.x
-- Make (optional, for using Makefile commands)
-
-## Installation
-
-1. Clone the repository
-2. Ensure Python 3 is installed
-3. Run the interpreter with your RPAL program files
-
 ## RPAL Language Features
 
 This interpreter supports standard RPAL constructs including:
