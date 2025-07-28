@@ -1,6 +1,6 @@
 # RPAL Interpreter
 
-A Python-based interpreter for RPAL (Right-reference Pedagogic Algorithmic Language) implementing lexical analysis, parsing, standardization, and execution through a Control Stack Environment (CSE) machine.
+A Python-based interpreter for RPAL implementing lexical analysis, parsing, standardization, and execution through a Control Stack Environment (CSE) machine.
 
 ## Authors
 - Amarasinghe A.A.D.H.S.: 220023U
